@@ -1,16 +1,15 @@
 # snap_cart
 
-A new Flutter project.
+Product Listing: Displays products fetched from a REST API, categorized neatly.
 
-## Getting Started
+Network Handling: Fetches data using Dio for robust and efficient API calls.
 
-This project is a starting point for a Flutter application.
+Offline Caching: Uses Hive to cache product data for offline access.
 
-A few resources to get you started if this is your first Flutter project:
+Bloc Architecture: Implements Bloc pattern for predictable and scalable state management.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clean Architecture: Follows clean coding principles with feature-based structure.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Material 3 Design: Minimalistic UI built with Material You theming for a modern look.
+
+Error Handling: Gracefully handles API errors, network issues, and local storage failures.
